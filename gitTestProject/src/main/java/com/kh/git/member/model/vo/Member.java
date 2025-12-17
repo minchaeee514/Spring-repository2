@@ -5,5 +5,8 @@ public class Member {
 	private String memberId;
 	private String memberPwd;
 	
+	
+	private int age;
+	private double height;
 
 }
