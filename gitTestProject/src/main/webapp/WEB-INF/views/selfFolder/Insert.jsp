@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>이거는 insert.jsp입니다</h1>
+	<h3>전달이 안되는건가요?</h3>
 </body>
 </html>
